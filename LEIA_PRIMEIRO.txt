@@ -1,0 +1,16 @@
+SA UNIGOIÁS 3.0 — PROJETO III / IV
+
+1. Extraia todo o ZIP.
+2. Execute INICIAR_WINDOWS.bat ou, no terminal, python3 server.py --demo.
+3. Acesse http://127.0.0.1:8000
+4. Usuário admin, coord, prof ou manuel. Senha Demo@2026!
+
+Código atual: server.py, schema.sql e static/.
+Documentação completa: docs/Dossie_Projeto_III.pdf.
+Apresentação: apresentacao/SA_UniGoias_Apresentacao_12min.pptx.
+Roteiro e falas: docs/Roteiro_12_Minutos.md e notas do PowerPoint.
+Alterações: docs/Alteracoes_da_Versao.md.
+
+LEGADO_REFERENCIA e VIDEO_ORIGINAL preservam a versão anterior e não representam a aplicação atual.
+
+A aplicação é local. Homologação para produção permanece como meta da etapa IV.
